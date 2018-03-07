@@ -1,3 +1,64 @@
 <resources>
-    <string name="app_name">TestTest</string>
+    <string name="app_name">PMI 001: Summer Exam 2018</string>
+    <string name="Headline">Project Management Professional Level-5</string>
+    <string name="QQ1">Question No : 1</string>
+
+    <string name="Question1">Which process involves defining, preparing, and coordinating all subsidiary plans and
+integrating them into a comprehensive plan?
+     <body style="text-align:justify;">
+    </body>
+    </string>
+
+    <string name="question1Option1">Direct and Manage Project Work</string>
+    <string name="question1Option2">Develop Project Management Plan</string>
+    <string name="question1Option3">Plan Quality Management</string>
+    <string name="question1Option4">Monitor and Control Project Work</string>
+    <string name="QQ2">Question No : 2</string>
+
+    <string name="Question2">Processes in the Planning Process Group are typically carried out during which part of the
+project life cycle?
+     <body style="text-align:justify;">
+    </body>
+    </string>
+
+    <string name="question2Option1">Only once, at the beginning</string>
+    <string name="question2Option2">At the beginning and the end</string>
+    <string name="question2Option3">Once during each phase</string>
+    <string name="question2Option4">Repeatedly</string>
+
+    <string name="QQ3">Question No : 3</string>
+
+    <string name="Question3">The process of estimating the type and quantity of material, human resources, equipment,
+or supplies required to perform each activity entails the following:choose all that applies:
+     <body style="text-align:justify;">
+    </body>
+    </string>
+
+    <string name="question3Option1">Collect Requirements.</string>
+    <string name="question3Option2">Conduct Procurements.</string>
+    <string name="question3Option3">Estimate Activity Durations.</string>
+    <string name="question3Option4">Estimate Activity Resources.</string>
+
+    <string name="QQ4">Question No : 4</string>
+
+    <string name="Question4">The process of estimating the type and quantity of material, human resources, equipment,
+or supplies required to perform each activity entails the following:choose all that applies:
+     <body style="text-align:justify;">
+    </body>
+    </string>
+
+    <string name="question4Option1">Collect Requirements.</string>
+    <string name="question4Option2">Conduct Procurements.</string>
+    <string name="question4Option3">Estimate Activity Durations.</string>
+    <string name="question4Option4">Estimate Activity Resources.</string>
+
+    <string name="QQ5">Question No : 5</string>
+
+    <string name="Question5">PMI Headquaters is located is located in which country?:
+     <body style="text-align:justify;">
+    </body>
+    </string>
+    <string name="country">Country</string>
+    <string name="codeName">Student ID</string>
+
 </resources>
